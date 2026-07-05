@@ -1,0 +1,6 @@
+{
+  "name": "Universal Remote",
+  "description": "Control your Mac, Windows PC, and Android TV remotely from your phone with precise trackpad, D-pad, keyboard, and custom command actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
